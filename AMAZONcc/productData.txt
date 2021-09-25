@@ -1,0 +1,81 @@
+Produtos:
+
+ID:1
+Nome do produto:Monitor cce 15.6 polegadas
+Valor: R$150
+
+ID:2
+Nome do produto:Livro clean code
+Valor: R$80
+
+ID:3
+Nome do produto:Livro algorithms
+Valor: R$120
+
+ID:4
+Nome do produto:Livro Javascript e Jquery
+Valor: R$100
+
+ID:5
+Nome do produto:Mouse multilazer
+Valor: R$15
+
+ID:6
+Nome do produto:Jogo GTA V em portugues pra ps2 ORIGINAL
+Valor: R$5
+
+ID:7
+Nome do produto:Jogo Bomba patch pra ps2 ORIGINAL
+Valor: R$5
+
+ID:8
+Nome do produto:Jogo Guitar Hero em portugues pra ps2 ORIGINAL
+Valor: R$5
+
+ID:9
+Nome do produto:Pc da xuxa
+Valor: R$50
+
+ID:10
+Nome do produto:Celular j2 pocket mini
+Valor: R$200
+
+ID:11
+Nome do produto:CD antivirus para bug Y2k
+Valor: R$200
+
+ID:12
+Nome do produto:Descanso de copo Razer
+Valor: R$1000
+
+ID:13
+Nome do produto:Playstation 4
+Valor: R$1000
+
+ID:14
+Nome do produto:Playstation 5
+Valor: R$5000
+
+ID:15
+Nome do produto:Xbox x
+Valor: R$1000
+
+ID:16
+Nome do produto:Nintendo switch
+Valor: R$2000
+
+ID:17
+Nome do produto:Pc gamer
+Valor: R$10000
+
+ID:18
+Nome do produto:Nintendo 64
+Valor: R$500
+
+ID:19
+Nome do produto:Magnavox Odyssey
+Valor: R$1000
+
+ID:20
+Nome do produto:Playstation 2
+Valor: R$200
